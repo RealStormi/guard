@@ -1,5 +1,5 @@
 main: de.stormi.main.Main
-version: 0.2
+version: 0.2.1
 name: guard
 
 commands:
