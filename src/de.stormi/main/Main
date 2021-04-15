@@ -18,7 +18,7 @@ public class Main extends JavaPlugin {
         getCommand("shelp").setExecutor(new HelpCommand());
         getCommand("feed").setExecutor(new feedcommand());
         getCommand("adminhelp").setExecutor(new adminhelp());
-        getCommand("flyspeed1").setExecutor(new flyspeed1());
+        getCommand("speed").setExecutor(new flyspeed1());
         getCommand("fly").setExecutor(new fly());
         getCommand("opheal").setExecutor(new opheal());
     }
