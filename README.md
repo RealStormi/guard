@@ -5,5 +5,7 @@ Danke das du das Plugin benutzt!
 Momentane Version: 0.2
 In Arbeit: 0.2.1
 
-Supported Versions: https://github.com/RealStormi/guard/blob/main/SECURITY.md#supported-versions
-Support Discord: discord.gg/pVt59yhsUr (German Discord, but you can ask Things in English)
+## Supported Versions:
+https://github.com/RealStormi/guard/blob/main/SECURITY.md#supported-versions
+### Support Discord:
+discord.gg/pVt59yhsUr 
