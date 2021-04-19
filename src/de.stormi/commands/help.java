@@ -10,7 +10,7 @@ public class HelpCommand implements CommandExecutor {
     public boolean onCommand(CommandSender commandSender, Command command, String s, String[] strings) {
         if(commandSender instanceof Player) {
             Player player = (Player) commandSender;
-            player.sendMessage("Befehle: 1. 2. 3.");
+            player.sendMessage("Verfügbare Befehle: Befehl 1");
         } else
             commandSender.sendMessage("§4§lDu darfst diesen Befehl nur im Spiel benutzen!");
         return false;
