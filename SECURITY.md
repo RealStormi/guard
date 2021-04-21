@@ -12,5 +12,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Report any Vulnerability in the Discord: discord.gg/pVt59yhsUr
-or open a Discission
+Report any Vulnerability in a Support Request!
