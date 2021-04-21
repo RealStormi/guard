@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Support
+    url: https://stormi-projects.atlassian.net/servicedesk/customer/portal/1/group/-1
+    about: Please ask questions here.
+  - name: FAQ
+    url: https://stormi-projects.atlassian.net/servicedesk/customer/portal/1/topic/529d8522-da18-401e-8be8-70ceffd14ad5
+    about: Please read first the FAQ
