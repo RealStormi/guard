@@ -11,3 +11,7 @@ You can Report Bugs in a Issue, Discussion or on our Bugboard (Soon)
 
 # Support
 We moved our Support Page now to: https://stormi-projects.atlassian.net/servicedesk/customer/portals
+
+
+# Can i add New Features?
+Sure! Just Fork the Project, add your Code and open a Pull Request!
