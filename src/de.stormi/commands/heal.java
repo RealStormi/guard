@@ -12,9 +12,9 @@ public class HealCommand implements CommandExecutor {
             Player player = (Player) commandSender;
             player.setHealth(20);
             player.setFoodLevel(20);
-            player.sendMessage("§3Du Wurdest geheilt");
+            player.sendMessage("§3You got Healed");
         } else
-            commandSender.sendMessage("Dieses Kommando darfst du nur als Spieler benutzen!");
+            commandSender.sendMessage("§4§lYou cant use the Command in the Console!");
 
         return false;
     }
