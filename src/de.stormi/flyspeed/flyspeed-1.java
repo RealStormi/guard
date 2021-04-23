@@ -11,11 +11,11 @@ public class flyspeed1 implements CommandExecutor {
         if(commandSender instanceof Player) {
             Player player = (Player) commandSender;
             player.setFlySpeed(1);
-            player.sendMessage("Deine Fluggeschwindigkeit wurde auf eins gesetzt");
+            player.sendMessage("flyspeed 1");
             player.setFlying(true);
             player.setAllowFlight(true);
         } else
-            commandSender.sendMessage("Du darfst dieses Commando nur als Spieler ausführen");
+            commandSender.sendMessage("You cant use this Command in the Console");
 
         return false;
     }

@@ -12,7 +12,7 @@ public class opheal implements CommandExecutor {
             Player player = (Player) commandSender;
             player.setHealth(30);
             player.setFoodLevel(20);
-            player.sendMessage("§4§lOp Heal wurde verwendet!");
+            player.sendMessage("§4§lYou used OpHeal!");
 
             return false;
     }
