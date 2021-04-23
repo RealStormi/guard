@@ -11,7 +11,7 @@ public class feedcommand implements CommandExecutor {
         if(commandSender instanceof Player) {
             Player player = (Player) commandSender;
             player.setFoodLevel(20);
-            player.sendMessage("Dein Hunger wurde gestillt");
+            player.sendMessage("");
         }
         return false;
     }
