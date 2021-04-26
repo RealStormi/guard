@@ -7,7 +7,7 @@ https://github.com/RealStormi/guard/blob/main/SECURITY.md#supported-versions
 discord.gg/pVt59yhsUr 
 
 # Bugs
-You can Report Bugs in a Issue, Discussion or on our Bugboard (Soon)
+You can Report Bugs in a Issue, Discussion or on our Bugboard
 
 # Support
 We moved our Support Page now to: https://stormi-projects.atlassian.net/servicedesk/customer/portals
