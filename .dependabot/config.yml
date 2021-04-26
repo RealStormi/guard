@@ -3,7 +3,7 @@ update_configs:
   # Update your Gemfile (& lockfiles) as soon as
   # new versions are published to the RubyGems registry
   - package_manager: "java:maven"
-    directory: "/"
+    directory: "/src"
     update_schedule: "daily"
 
     # Apply default reviewer and label to created
