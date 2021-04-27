@@ -9,6 +9,6 @@ currently being supported with security updates.
 | ------- | ------------------ |
 | 1       | :white_check_mark: |
 | 0.2.x   | :x:                |
-| <0.2    | x:                 |
+| <0.2    | :x:                |
 
 
