@@ -12,7 +12,7 @@ public class InfoCommand implements CommandExecutor {
             Player player = (Player) commandSender;
             player.sendMessage("Current Version: 0.2.1");
         } else
-            commandSender.sendMessage("§4§lDu darfst diesen Befehl nur im Spiel benutzen!");
+            commandSender.sendMessage("§4§lYou can only use the Command Ingame!");
         return false;
     }
 }
