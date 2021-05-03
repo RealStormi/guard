@@ -12,3 +12,7 @@ currently being supported with security updates.
 | <0.2    | :x:                |
 
 
+
+
+Report any Vulnerability in a Support Request!
+
