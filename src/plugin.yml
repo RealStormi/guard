@@ -13,7 +13,5 @@ commands:
     description: Stille deinen Hunger
   flyspeed1:
     description: Setzte deine Fluggeschwindigkeit auf 1
-  fly:
-    description: Damit kannst du im Gamemode 0 fliegen
   opheal:
     description: §4§lNur für Admins!!
