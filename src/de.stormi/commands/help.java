@@ -11,7 +11,7 @@ public class HelpCommand implements CommandExecutor {
         if(commandSender instanceof Player) {
             Player player = (Player) commandSender;
             player.sendMessage("Test)
-            player.sendMessage("Commands: /heal /feed");
+            player.sendMessage("Commands:");
         } else
             commandSender.sendMessage("§4§lYou cant use this Command in the Console!");
         return false;
