@@ -16,4 +16,3 @@ We moved our Support Page now to: https://stormi-projects.atlassian.net/serviced
 
 # Can i add New Features?
 Sure! Just Fork the Project, add your Code and open a Pull Request!
-
